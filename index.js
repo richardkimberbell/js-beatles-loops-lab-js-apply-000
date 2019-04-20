@@ -15,3 +15,11 @@ function johnLennonFacts(facts) {
   }
   return arr
 }
+function iLoveTheBeatles(num) {
+  var arr=[]
+  var n
+  for(n=0;n<num;n++) {
+    arr.push("I love the Beatles!")
+  }
+  return arr
+}
