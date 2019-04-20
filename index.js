@@ -1,4 +1,7 @@
 // add solution here
 function theBeatlesPlay(musicians, instruments) {
-  for
+  var arr=[]
+  for(n,n<musicians.length,n++) {
+    arr.push(`${musicians[n]} plays the ${instruments[n]}`)
+  }
 }
